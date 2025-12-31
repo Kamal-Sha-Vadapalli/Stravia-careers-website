@@ -1,2 +1,2 @@
-# jovian-careers-website
+# Stravia-careers-website
 A careers website for job hiring 
